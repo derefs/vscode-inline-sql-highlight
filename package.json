@@ -3,6 +3,7 @@
 	"displayName": "Inline SQL Highlight",
 	"description": "Highlights the SQL queries from your code",
 	"version": "0.1.1",
+	"publisher": "derefs",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
